@@ -35,10 +35,10 @@ My two years of Polytech's intensive preparatory cycle culminated in a national 
 ## 📊 &nbsp;Github Stats
 
 <br/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=jaimealbapastor&show_icons=true&bg_color=155263&title_color=FFC93C&text_color=e6eef0&icon_color=FF9A3C&hide_border=true" />
+<p align="center">
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jaimealbapastor&show_icons=true&bg_color=155263&title_color=FFC93C&text_color=e6eef0&icon_color=FF9A3C&hide_border=true" />
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimealbapastor&layout=compact&langs_count=6&bg_color=155263&title_color=FFC93C&text_color=e6eef0&hide_border=true" />
-
+</p>
 <br/>
 
 ## 👨‍🎓 &nbsp;About Me
