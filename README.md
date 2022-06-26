@@ -21,14 +21,10 @@ My two years of Polytech's intensive preparatory cycle culminated in a national 
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimealbapastor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimealbapastor&layout=compact&langs_count=6&bg_color=155263&title_color=FFC93C&text_color=FF9A3C&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimealbapastor&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" />
-
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jaimealbapastor&show_icons=true&bg_color=155263&title_color=FFC93C&text_color=FF6F3C&icon_color=FF9A3C&hide_border=true" />
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
-
-[![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaimealbapastor&show_icons=true&bg_color=155263&title_color=FFC93C&text_color=FF6F3C&icon_color=FF9A3C&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
