@@ -17,7 +17,7 @@ Text: e6eef0
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=2900&color=FF6F3C&center=true&width=500&lines=Engineering+Student;Robotics+Specialization;Neural+Networks;)](https://github.com/jaimealbapastor?tab=repositories)
 
 Originally from Spain, I am now studying in the south-west of France.  
-I'm a [Polytech Nice-Sophia](https://polytech.univ-cotedazur.fr/) student pursuing a career in **Autonomous Robotic Systems**.  
+I'm a [Polytech Nice-Sophia](https://polytech.univ-cotedazur.fr/) student pursuing a career in <b style="color:#FF6F3C">Autonomous Robotic Systems</b>.  
 My two years of Polytech's intensive preparatory cycle culminated in a national ranking of **27th** out of 1567 students.
 
 ## 📊 Github stats
