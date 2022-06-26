@@ -1,11 +1,14 @@
 <!-- COLOR PALETTE: https://colorhunt.co/palette/155263ff6f3cff9a3cffc93c
-1: 155263
-2: FF6F3C
-3: FF9A3C
-4: FFC93C
+Background: 155263
+Icons: FF6F3C
+Icons: FF9A3C
+Title: FFC93C
+Text: e6eef0
+
+<img src="images/totoro.gif" width="100">
 -->
 
-<h1 align="center">Hello there 👋, I'm Jaime Alba <img src="images/totoro.gif" width="100"></h1>
+<h1 align="center">Hello there 👋, I'm Jaime Alba</h1>
 
 <!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
 
@@ -21,21 +24,21 @@ My two years of Polytech's intensive preparatory cycle culminated in a national 
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimealbapastor&layout=compact&langs_count=6&bg_color=155263&title_color=FFC93C&text_color=FF9A3C&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimealbapastor&layout=compact&langs_count=6&bg_color=155263&title_color=FFC93C&text_color=e6eef0&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jaimealbapastor&show_icons=true&bg_color=155263&title_color=FFC93C&text_color=FF6F3C&icon_color=FF9A3C&hide_border=true" />
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
-
-<br/>
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jaimealbapastor&show_icons=true&bg_color=155263&title_color=FFC93C&text_color=e6eef0&icon_color=FF9A3C&hide_border=true" />
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimealbapastor&background=155263&stroke=FFC93C&ring=FF6F3C&fire=FF9A3C&hide_border=true&currStreakNum=FFC93C&sideNums=FFC93C&currStreakLabel=e6eef0&sideLabels=e6eef0&dates=e6eef0" />
 
 <br/>
 
-  <summary><h2>⚡ Recent GitHub Activity</h2></summary>
-  <br/>
+<br/>
+
+<summary><h2>⚡ Recent GitHub Activity</h2></summary>
+<br/>
 
 [![Jaime's github activity graph](https://activity-graph.herokuapp.com/graph?username=jaimealbapastor&bg_color=155263&color=FFC93C&line=FF6F3C&point=FF9A3C&area=true&area_color=FF6F3C)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <br/>
+<br/>
 
 </div>
 
