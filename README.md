@@ -8,7 +8,7 @@ Text: e6eef0
 
 -->
 
-<h1 align="center"> Hi there 👋, I'm Jaime Alba</h1>
+<h1 align="center"> Hi there, I'm Jaime Alba 👋</h1>
 
 <!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
 
