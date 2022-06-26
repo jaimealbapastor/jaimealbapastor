@@ -5,48 +5,58 @@ Icons: FF9A3C
 Title: FFC93C
 Text: e6eef0
 
-<img src="images/totoro.gif" width="100">
+
 -->
 
-<h1 align="center">Hello there 👋, I'm Jaime Alba</h1>
+<h1 align="center"> Hi there 👋, I'm Jaime Alba</h1>
 
 <!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=2900&color=FF6F3C&center=true&width=500&lines=Engineering+Student;Robotics+Specialization;Neural+Networks;)](https://github.com/jaimealbapastor?tab=repositories)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=FF6F3C&center=true&width=500&lines=Engineering+Student;Robotics+Specialization;Neural+Networks;)](https://github.com/jaimealbapastor?tab=repositories)
 
 Originally from Spain, I am now studying in the south-west of France.  
-I'm a [Polytech Nice-Sophia](https://polytech.univ-cotedazur.fr/) student pursuing a career in <b style="color:#FF6F3C">Autonomous Robotic Systems</b>.  
+I'm a [Polytech Nice-Sophia](https://polytech.univ-cotedazur.fr/) student pursuing a career in **<b style="color:#FF6F3C">Autonomous Robotic Systems</b>**.  
 My two years of Polytech's intensive preparatory cycle culminated in a national ranking of **27th** out of 1567 students.
 
-## 📊 Github stats
-
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimealbapastor&layout=compact&langs_count=6&bg_color=155263&title_color=FFC93C&text_color=e6eef0&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jaimealbapastor&show_icons=true&bg_color=155263&title_color=FFC93C&text_color=e6eef0&icon_color=FF9A3C&hide_border=true" />
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimealbapastor&background=155263&stroke=FFC93C&ring=FF6F3C&fire=FF9A3C&hide_border=true&currStreakNum=FFC93C&sideNums=FFC93C&currStreakLabel=e6eef0&sideLabels=e6eef0&dates=e6eef0" />
-
-<br/>
-
-<br/>
-
-<summary><h2>⚡ Recent GitHub Activity</h2></summary>
-<br/>
-
-[![Jaime's github activity graph](https://activity-graph.herokuapp.com/graph?username=jaimealbapastor&bg_color=155263&color=FFC93C&line=FF6F3C&point=FF9A3C&area=true&area_color=FF6F3C)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
+<!-- https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/AVS1508.md -->
+<p align="center">
+<a href="https://www.linkedin.com/in/jaime-alba-7848121b5/"><img src="https://img.shields.io/badge/-Jaime%20Alba-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:jalbapastor@gmail.com"><img src="https://img.shields.io/badge/-jalbapastor@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
 </div>
 
 <br/>
 
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" />
- <a href = "https://commits.top/egypt.html" target="_blank">
-  <img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/>
- </a>
-</p>
+## 📊 &nbsp;Github Stats
+
+<br/>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=jaimealbapastor&show_icons=true&bg_color=155263&title_color=FFC93C&text_color=e6eef0&icon_color=FF9A3C&hide_border=true" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimealbapastor&layout=compact&langs_count=6&bg_color=155263&title_color=FFC93C&text_color=e6eef0&hide_border=true" />
+
+<br/>
+
+## 👨‍🎓 &nbsp;About Me
+
+- 🏫&nbsp;I am currently learning `.c`
+- ⭐&nbsp;My favorite languages are `.java` , `.py` and `.c`
+- ♟️&nbsp; We can connect on [Chess.com](https://www.chess.com/member/Surfer732) or [Lichess.org](https://lichess.org/@/Jaime_AP) to play some games
+- 🌐&nbsp;I speak fluent English, Spanish and French
+
+<br/>
+<br/>
+
+<div align="center">
+<img src="images/totoro.gif" width="100">
+<img src="images/pikachu.gif" width="100">
+<img src="images/totoro.gif" width="100">
+<img src="images/pikachu.gif" width="100">
+<img src="images/totoro.gif" width="100">
+<img src="images/pikachu.gif" width="100">
+<img src="images/totoro.gif" width="100">
+</div>
