@@ -15,7 +15,7 @@ Text: e6eef0
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=FF6F3C&center=true&width=500&lines=Engineering+Student;Robotics+Specialization;Neural+Networks;)](https://github.com/jaimealbapastor?tab=repositories)
 
 <p>Originally from Spain, I am now studying in the south-west of France.</p>  
-<p>I'm a <a href="https://polytech.univ-cotedazur.fr/">Polytech Nice-Sophia</a> student pursuing a career in <b style="color:#FF6F3C">Autonomous Robotic Systems</b>.</p>
+<p>I'm a <a href="https://polytech.univ-cotedazur.fr/">Polytech Nice-Sophia</a> student pursuing an engineering career in <b style="color:#FF6F3C">Autonomous Robotic Systems</b>.</p>
 <p>My two years of Polytech's intensive preparatory cycle culminated in a national ranking of <b>27th</b> out of 1567 students.</p>
 
 <br/>
@@ -82,10 +82,10 @@ Text: e6eef0
 
 ## 👨‍🎓 &nbsp;About Me
 
-- 🏫&nbsp;I am currently learning `.c`
-- ⭐&nbsp;My favorite languages are `.java` , `.py` and `.c`
+- 🏫&nbsp;I am currently learning `.c++`
+- ⭐&nbsp;My favorite languages are `.c`, `.py` and `.js`
 - ♟️&nbsp; We can connect on [Chess.com](https://www.chess.com/member/Surfer732) or [Lichess.org](https://lichess.org/@/Jaime_AP) to play some games
-- 🌐&nbsp;I speak fluent English, Spanish and French
+- 🌐&nbsp;I speak fluent English, Spanish and French and currently working on my Japanese.
 
 <br/>
 <br/>
