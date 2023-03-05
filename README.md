@@ -12,7 +12,7 @@ Text: e6eef0
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=FF6F3C&center=true&width=500&lines=Engineering+Student;Robotics+Specialization;Neural+Networks;)](https://github.com/jaimealbapastor?tab=repositories)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=FF6F3C&center=true&width=500&lines=Engineering+Student;Robotics+Specialization;Autonomous+systems;Simultaneous+localization+and+mapping;Control+systems;)](https://github.com/jaimealbapastor?tab=repositories)
 
 <p>Originally from Spain, I am now studying in the south-west of France.</p>  
 <p>I'm a <a href="https://polytech.univ-cotedazur.fr/">Polytech Nice-Sophia</a> student pursuing an engineering career in <b style="color:#FF6F3C">Autonomous Robotic Systems</b>.</p>
