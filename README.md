@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=FF6F3C&center=true&width=500&lines=Autonomous+Robotics;Localization+and+mapping;CAD;Computer+Vision;)](https://github.com/jaimealbapastor?tab=repositories)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=FF6F3C&center=true&width=500&lines=Autonomous+Robotics;Reinforcement+Learning;CAD;Computer+Vision;)](https://github.com/jaimealbapastor?tab=repositories)
 
 <p>Originally from Spain, I am now studying in the south-west of France. <br/> I'm a <a href="https://polytech.univ-cotedazur.fr/">Polytech Nice-Sophia</a> student pursuing an engineering career in <b style="color:#FF6F3C">Autonomous Robotic Systems</b>.</p>
 <p>Currently working on the following skills: <i><b>ROS2, Computer Vision, SLAM</b></i></p>
